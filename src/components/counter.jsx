@@ -1,3 +1,11 @@
+// Resource: https://www.youtube.com/watch?v=Ke90Tje7VS0
+// I'm at 1:04
+// npm i -g create-react-app@1.5.2
+// extensions: Simple React Snippets,
+//             Prettier
+// user settings: "editor.formatOnSave": true,
+// create-react-app name-of-app
+
 import React, { Component } from "react";
 
 class Counter extends Component {
